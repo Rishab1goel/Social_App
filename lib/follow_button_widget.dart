@@ -33,7 +33,7 @@ class FollowButtonWidget extends StatelessWidget {
         child: Text(
           'FOLLOW',
           style: TextStyle(
-            color: Colors.red,
+            color: Colors.blue,
             letterSpacing: 1.5,
             fontWeight: FontWeight.w600,
           ),
